@@ -1,7 +1,7 @@
-# scMISP:scMISP: a subspace projection-based multi-scale information fusion framework for
+# scMISP: a subspace projection-based multi-scale information fusion framework for
 single-cell multi-omics clustering
 
-![framework](images/SpaMICS.png)
+![framework](images/SpaMICS.jpg)
 
 ## Requirement
 - torch==1.11.0
