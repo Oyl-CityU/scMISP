@@ -1,5 +1,4 @@
-# scMISP: a subspace projection-based multi-scale information fusion framework for
-The source code and input data of scMISP
+# scMISP: a subspace projection-based multi-scale information fusion framework for single-cell multi-omics clustering
 
 ![framework](images/scMISP.jpg)
 
